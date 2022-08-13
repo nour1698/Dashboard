@@ -3,7 +3,7 @@
         <navBar>
 
         </navBar>
-<p>nnn</p>
+<p>update</p>
     </div>
 </template>
 <script>

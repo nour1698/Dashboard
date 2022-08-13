@@ -7,6 +7,7 @@
 
 <script>
 import homePage from "./views/homePage"
+
 export default {
   components: {
     homePage
@@ -14,6 +15,7 @@ export default {
 }
 </script>
 <style scoped>
+
 #app{
   height: 2000px;
 }

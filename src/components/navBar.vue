@@ -1,7 +1,7 @@
 <template>
 <div>
     <nav class="navbar navbar-expand-lg navbar-light">
-        <div class="container-fluid">
+        <div class="container-fluid " style="height:30px">
             <a href="#">
                 <img class="logo" src="/logo.png"/>
             </a>
@@ -16,6 +16,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">My TODO</a>
                     </li>
+                    
                     <!-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Link

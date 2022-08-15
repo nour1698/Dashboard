@@ -1,13 +1,13 @@
 <template>
-  <swiper ref="mySwiper" :options="swiperOptions1">
+  <swiper ref="mySwiper" :options="swiperOptions1" class="slider">
         <swiper-slide class="offer-slide" style="height:400px" >
             <div class="row g-0 h-100">
-              <img src="1.jpg" style="max-height:100% max-width:100%" >
+              <img src="2.jpg" style="max-height:100% max-width:100%" >
             </div>
         </swiper-slide>
             <swiper-slide class="offer-slide" style="height:400px" >
             <div class="row g-0">
-              <img src="2.jpg">
+              <img src="1.jpg">
             </div>
 
         </swiper-slide>
@@ -67,3 +67,8 @@ export default {
     },
 };
 </script>
+<style scoped>
+.slider{
+    clip-path: circle(59.7% at 50% 3%);
+}
+</style>

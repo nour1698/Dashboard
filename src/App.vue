@@ -17,6 +17,6 @@ export default {
 <style scoped>
 
 #app{
-  height: 2000px;
+ 
 }
 </style>

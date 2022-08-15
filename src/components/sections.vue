@@ -27,36 +27,54 @@
       </div>
     </headrer>
     <div class="row  mx-2 " style="margin-top:15%"  v-show="selectedSection=='CNBG'">
-      <div class="col-4 m-auto">
+      <div class="col-4 m-auto animate__animated animate__backInLeft">
         <div class="row">
           <div class="col-12 mb-5 card border-0 shadow-sm CNBG-section">
-            <div class="text-center mt-2 first-link">Some link here</div>
-            <div class="text-center mt-1 second-link">Some link here</div>
-            <div class="text-center mt-1 third-link">Some link here</div>
-            <div class="text-center mt-1 mb-2 fourth-link">Some link here</div>
+            <div class="text-center mt-2 first-link" style="height:40px; font-size:20px; background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 second-link" style="height:40px; font-size:20px; background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,61,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 third-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 mb-2 fourth-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,61,1) 100%);">Some link here</div>
           </div>
           <div class="col-12 mt-5 card border-0 shadow-sm CNBG-section">
-            <div class="text-center mt-2 first-link">Some link here</div>
-            <div class="text-center mt-1 second-link">Some link here</div>
-            <div class="text-center mt-1 third-link">Some link here</div>
-            <div class="text-center mt-1 mb-2 fourth-link">Some link here</div>
+            <div class="text-center mt-2 first-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 second-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,61,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 third-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 mb-2 fourth-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,61,1) 100%);">Some link here</div>
           </div>
         </div> 
       </div> 
       <div class="col-3 text-center m-auto"> circle section</div>         
-      <div class="col-4 m-auto">
+      <div class="col-4 m-auto animate__animated animate__backInLeft">
         <div class="row">
           <div class="col-12 mb-5 card border-0 shadow-sm CNBG-section">
-            <div class="text-center mt-2 first-link">Some link here</div>
-            <div class="text-center mt-1 second-link">Some link here</div>
-            <div class="text-center mt-1 third-link">Some link here</div>
-            <div class="text-center mt-1 mb-2 fourth-link">Some link here</div>
+            <div class="text-center mt-2 first-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 second-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,61,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 third-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 mb-2 fourth-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,61,1) 100%);">Some link here</div>
           </div>
           <div class="col-12 mt-5 card border-0 shadow-sm CNBG-section">
-            <div class="text-center mt-2 first-link">Some link here</div>
-            <div class="text-center mt-1 second-link">Some link here</div>
-            <div class="text-center mt-1 third-link">Some link here</div>
-            <div class="text-center mt-1 mb-2 fourth-link">Some link here</div>
+            <div class="text-center mt-2 first-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 second-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,61,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 third-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);" >Some link here</div>
+            <div class="text-center mt-1 third-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,61,1) 100%);">Some link here</div>
+            <div class="text-center mt-1 mb-2 fourth-link" style="height:40px; font-size:20px;  background-color:background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);">Some link here</div>
           </div>
         </div> 
       </div>         
